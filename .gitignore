@@ -1,0 +1,6 @@
+# Ignore unnecessary files
+.idea
+android
+build
+ios
+test
